@@ -3,6 +3,12 @@
 
 2. Fonts, need additional download(solved) and import to right places (unsolved)
 
+3. Based on several libraries, such as bs4, PyFPDF
+
+4. comment out "warnings.warn("cmap value too big/small: %s" % cm)" 
+
+in C:\Users\william\AppData\Local\Programs\Python\Python36\Lib\site-packages\fpdf\ttfonts.py
+
 
 
  
