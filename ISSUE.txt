@@ -1,0 +1,8 @@
+
+1. Encoding, some pdf does not generate well (solved)
+
+2. Fonts, need additional download(solved) and import to right places (unsolved)
+
+
+
+ 
