@@ -1,0 +1,6 @@
+
+20190603
+
+1. lack of UI
+
+2. chinese string stripping and encoding
